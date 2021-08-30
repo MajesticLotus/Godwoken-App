@@ -1,1 +1,7 @@
-# Godwoken-App
+# Blockchain workshop
+
+Start UI:
+
+```
+yarn && yarn build && yarn ui
+```
